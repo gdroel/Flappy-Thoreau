@@ -1,5 +1,8 @@
 # Flappy Thoreau
 
-Like Flappy Bird, but with Thoreau instead. Special thanks to [FlappySwift](https://github.com/fullstackio/FlappySwift) for providing the inspiration and Swift Library for this app.
+Like Flappy Bird, but with Thoreau instead. Special thanks to [FlappySwift](https://github.com/fullstackio/FlappySwift) for providing the inspiration and Library for this app.
+
+![Flappy Thoreau]
+(http://imgur.com/75UKkEs)
 
 
